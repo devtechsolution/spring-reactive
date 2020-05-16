@@ -1,0 +1,9 @@
+
+spring:
+  r2dbc:
+    url: r2dbc:postgres://localhost/test
+    username: postgres
+    password: root
+    
+server:
+  port: 8081
